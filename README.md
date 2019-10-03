@@ -15,6 +15,7 @@ There are three different series:
 - [Typescript](https://learn.hasura.io/graphql/typescript-react-apollo)
 - [Elm](https://learn.hasura.io/graphql/elm-graphql)
 - [ReasonML](https://learn.hasura.io/graphql/reason-react-apollo)
+- [GatsbyJS](https://www.gatsbyjs.org/docs/graphql-concepts/)
 
 #### Mobile
 
